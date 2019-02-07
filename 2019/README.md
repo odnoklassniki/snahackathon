@@ -8,7 +8,7 @@ Here you can find baselines, kernels and other supplementary materials for SNA H
 
 Details are available available at https://mlbootcamp.ru/round/17/tasks/.
 
-All baselines here are written using python 3.7 and based on the [Apache Arrow](https://arrow.apache.org) for reading parquet files (see [manual](https://arrow.apache.org/docs/python/install.html) for installation). Image processing is implemented using (MXNet)[https://mxnet.incubator.apache.org] framework (see [manual](https://mxnet.incubator.apache.org/versions/master/install/index.html?platform=MacOS&language=Python&processor=CPU) for instllation) and [GluonCV](https://mxnet.incubator.apache.org/versions/master/gluon/index.html). Texts are processed using [Gensim](https://radimrehurek.com/gensim/) package (see [manual](https://radimrehurek.com/gensim/install.html) for installation).
+All baselines here are written using python 3.7 and based on the [Apache Arrow](https://arrow.apache.org) for reading parquet files (see [manual](https://arrow.apache.org/docs/python/install.html) for installation). Image processing is implemented using [MXNet](https://mxnet.incubator.apache.org) framework (see [manual](https://mxnet.incubator.apache.org/versions/master/install/index.html?platform=MacOS&language=Python&processor=CPU) for instllation) and [GluonCV](https://mxnet.incubator.apache.org/versions/master/gluon/index.html). Texts are processed using [Gensim](https://radimrehurek.com/gensim/) package (see [manual](https://radimrehurek.com/gensim/install.html) for installation).
 
 Content of the package:
 
